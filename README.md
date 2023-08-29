@@ -1,5 +1,5 @@
-# Presentations
+# Data Modelling for Software Developers 
 
- - [Event-driven architecture](event-driven-architecture/index.html)
- - [Fast data](fast-data/index.html)
- - [Event-sourcing](event-sourcing/index.html)
+Presentation for EDC 2023 Data modelling for Software developers
+
+
