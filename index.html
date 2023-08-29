@@ -10,51 +10,51 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
     <!--<link rel="stylesheet" href="dist/reset.css">-->
-    <link rel="stylesheet" href="common/reveal/reveal.css">
-    <link rel="stylesheet" href="common/utils/css/equinor.css" id="theme">
+    <link rel="stylesheet" href="./common/reveal/reveal.css">
+    <link rel="stylesheet" href="./common/utils/css/equinor.css" id="theme">
 
     <!--[if lt IE 9]>
       <script src="lib/js/html5shiv.js"></script>
     <![endif]-->
 
     <!-- Theme used for syntax highlighted code -->
-    <link rel="stylesheet" href="common/reveal/plugin/highlight/atom-one-dark.css">
+    <link rel="stylesheet" href="./common/reveal/plugin/highlight/atom-one-dark.css">
   </head>
   <body>
     <div class="reveal">
       <div class="slides">
 
-        <section data-markdown="content/title.md"
+        <section data-markdown="./content/title.md"
                  data-separator="^-----"
                  data-separator-vertical="^---"
                  data-separator-notes="^Note:"
                  data-charset="utf-8"></section>
 
-        <section data-markdown="content/whoami.md"
+        <section data-markdown="./content/whoami.md"
                  data-separator="^-----"
                  data-separator-vertical="^---"
                  data-separator-notes="^Note:"
                  data-charset="utf-8"></section>
 
-        <section data-markdown="content/intro.md"
+        <section data-markdown="./content/intro.md"
                  data-separator="^-----"
                  data-separator-vertical="^---"
                  data-separator-notes="^Note:"
                  data-charset="utf-8"></section>
 
-        <section data-markdown="content/what.md"
+        <section data-markdown="./content/what.md"
                  data-separator="^-----"
                  data-separator-vertical="^---"
                  data-separator-notes="^Note:"
                  data-charset="utf-8"></section>
 
-        <section data-markdown="content/data-modelling.md"
+        <section data-markdown="./content/data-modelling.md"
                  data-separator="^-----"
                  data-separator-vertical="^---"
                  data-separator-notes="^Note:"
                  data-charset="utf-8"></section>
 
-        <section data-markdown="content/knowledge.md"
+        <section data-markdown="./content/knowledge.md"
                  data-separator="^-----"
                  data-separator-vertical="^---"
                  data-separator-notes="^Note:"
@@ -64,10 +64,10 @@
     </div>
 
     <script type="module">
-      import Reveal from 'common/reveal/reveal.esm.js';
-      import Markdown from 'common/reveal/plugin/markdown/markdown.esm.js';
-      import Highlight from 'common/reveal/plugin/highlight/highlight.esm.js';
-      import Notes from 'common/reveal/plugin/notes/notes.esm.js';
+      import Reveal from './common/reveal/reveal.esm.js';
+      import Markdown from './common/reveal/plugin/markdown/markdown.esm.js';
+      import Highlight from './common/reveal/plugin/highlight/highlight.esm.js';
+      import Notes from './common/reveal/plugin/notes/notes.esm.js';
       Reveal.initialize({
         hash: true,
         plugins: [ Markdown, Highlight, Notes ]
