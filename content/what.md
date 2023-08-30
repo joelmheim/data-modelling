@@ -1,26 +1,20 @@
-## What is a Business Event?
+## What is a Data Modelling?
 
-![Domain event](images/domain-event.png) <!-- .element: height="300" -->
-
----
-
-## What is an Event?
-In software: Simply a message sent between two system components or services.
-
-![Software Event](images/software-event.png) <!-- .element: height="300" -->
+Definition
 
 ---
 
-## Digression: Events as a first order construct
-Events are the fundamental building block in all business modelling
+## Enterprise data models
 
-All other representations of state are just compressions (often lossy) of events
-
-![Relational database](images/relational-database.png) <!-- .element: height="200" -->
-![JPEG](images/jpeg.jpg) <!-- .element: height="200" -->
 
 ---
 
-## Answer
+## Physical data models
 
-[Event-sourcing](../event-sourcing/)
+---
+
+## Conceptual data models 
+
+---
+
+## Data entities

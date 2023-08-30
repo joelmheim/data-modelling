@@ -1,8 +1,8 @@
 # All models are wrong...
 ![George Box the Statistician](images/george-box.jpg) <!-- .element: height="350" -->
 George E.P. Box
-
-## ... but some are useful.
+<br/>
+## ... but some are useful. <!-- .element class="fragment" -->
 
 ---
 
