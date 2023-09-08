@@ -166,6 +166,13 @@
   text-align: left;
 }
 
+.reveal blockquote {
+  padding: 10px;
+  background: var(--moss-green);
+  text-align: left;
+  border-left: 1em solid var(--energy-red)
+}
+
 /*********************************************
  * LINKS
  *********************************************/
