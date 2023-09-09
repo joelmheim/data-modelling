@@ -18,19 +18,27 @@
 
 ## Conceptual data models
 
-Represents key aspects of processes and events in the real world. Used to document and understand the real world
+Represents key aspects of processes and events in the real world. 
+
+Used to document and understand the real world
 
 ---
 
 ## Logical data models
 
-Takes the conseptual model a step further by fully defining relationships and adding more details.
+Takes the conseptual model a step further by fully defining 
+
+relationships and adding more details.
 
 ---
 
 ## Physical data models
 
-Represent how the model is or will be built in the database. It describes technology- and database-specific implementation details. Can often be reverse engineered or extracted from a DBMS.
+Represent how the model is or will be built in the database. 
+
+It describes technology- and database-specific implementation details. 
+
+Can often be reverse engineered or extracted from a DBMS.
 
 ---
 
