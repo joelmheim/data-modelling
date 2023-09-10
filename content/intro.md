@@ -6,9 +6,7 @@ George E.P. Box
 
 ---
 
-## Map projection
-
-![Map projection](images/map-projections.jpg) <!-- .element: height="450" -->
+![Map projection](images/map-projections.jpg) <!-- .element: height="600" -->
 
 ---
 
