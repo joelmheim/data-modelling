@@ -4,7 +4,7 @@
 
   > An abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
   >
-  > _- Wikipedia_ 
+  > _- [Wikipedia](https://en.wikipedia.org/wiki/Data_modeling)_ 
 
 </center>
 
@@ -45,7 +45,7 @@ Used to document and understand the real world
 
 ## And this?
 
-![Data entities](images/ea-data-entities.png) <!-- .element: height="500" -->
+![Data entities](images/ea-data-entities.png) <!-- .element: height="450" -->
 
 ---
 
