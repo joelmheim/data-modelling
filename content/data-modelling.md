@@ -12,12 +12,14 @@
 
 ---
 
+![Licence data model](images/ea-licence-data-model.png) <!-- .element: width="300" style="float:right" -->
+
 ## Logical data models
 
- - Understand the data that is relevant for your project <!-- .element: class="fragment" -->
- - Use existing definitions and models if available <!-- .element: class="fragment" -->
- - Create them if not <!-- .element: class="fragment" -->
- - And share them with others <!-- .element: class="fragment" -->
+- Understand the data that is relevant for your project <!-- .element: class="fragment" -->
+- Use existing definitions and models if available <!-- .element: class="fragment" -->
+- Create them if not <!-- .element: class="fragment" -->
+- And share them with others <!-- .element: class="fragment" -->
 
 ---
 
@@ -30,9 +32,7 @@
 
 ## Physical data models
 
-![Database schema](images/database-schema.svg) <!-- .element: width="600" -->
-
-By Timo Tijhof, CC BY 4.0,<!-- .element: style="font-size: small" --> https://commons.wikimedia.org/w/index.php?curid=54915369 <!-- .element: style="font-size: small" -->
+![Database schema](images/relational-database.png) <!-- .element: height="400" -->
 
 ---
 
@@ -40,4 +40,5 @@ By Timo Tijhof, CC BY 4.0,<!-- .element: style="font-size: small" --> https://c
 
 - Object-oriented
 - Data oriented
+- Functional <!-- .element: class="fragment" -->
 
