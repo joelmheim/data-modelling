@@ -60,11 +60,13 @@
 
 ---
 
+![Lambda](images/anonymous-lambda.svg) <!-- .element: width="200" style="float:right" -->
 ## Functional Programming Concepts
 
 - First-class and higher-order functions
 - Side-effect free or pure functions
 - Immutable datastructures
+
 ---
 
 ## Data Oriented Programming
